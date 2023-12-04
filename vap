@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--  -->
+<html lang="en">
+    <!-- type of language -->
+<head>
+    <meta charset="UTF-8">
+    <!-- meta is a self closing tag -->
+    <!-- unicode characters 8th version -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- which displays the output in viewport -->
+    <title>Document</title>
+    <!-- which gives the tittle of the page -->
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body bgcolor="yellow">
+    <!-- heading tags -->
+    <h1 style="color:brown;"> December</h1>
+    <!-- inline styling -->
+    <h2>Its December</h2>
+    <h3>Its December</h3>
+    <h4>Its December</h4>
+    <h5>Its December</h5>
+    <p>A last month in a year</p>
+    <b>Winter is coming</b>
+    <br/>
+    <i>intresting season</i><br/>
+    <strong>eat cakes and be strong</strong><br/>
+    hi<del>no one celebrate christmas</del><br/>
+    hi<ins>every one celebrate christmas</ins><br/>
+    im<sub>subscript</sub><br/>
+    im<sup>superscript</sup><br/>
+    <!-- internal styling -->
+    <style>
+        h2
+{
+    color: rgb(89, 0, 255);
+}
+
+    </styleh2>
+    
+
+</body>
+</html>
